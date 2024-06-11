@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Devpatel90
-- 👀 I’m interested in ..Coding
-- 🌱 I’m currently learning ...MERN Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..devsojitra02@gmail.com
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning MERN Stack Development
+- 📫 How to reach me devsojitra02@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
