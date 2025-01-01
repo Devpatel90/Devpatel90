@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Sojitra</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 💬 Ask me about **HTML,CSS,C and Bootstrap**
+- 💬 Ask me about **HTML,CSS,C,Bootstrap,Javascript,DSA and React**
 
 - 📫 How to reach me **devsojitra02@gmail.com**
 
