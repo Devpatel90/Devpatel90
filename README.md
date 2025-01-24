@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Sojitra</h1>
+<h1 align="center">Hi, I'm Dev Sojitra</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 - 💬 Ask me about **HTML,CSS,C,Bootstrap,Javascript,DSA and React**
